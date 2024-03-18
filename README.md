@@ -1,6 +1,6 @@
-<div style="text-align: center">
+<div align="center" style="text-align: center">
     <h1 style="align-self: center; color: crimson">Bienvenido al github oficial del CSC!</h1>
-    <img width="300" src="a-color-sin-fondo_1.webp">
+    <img style="margin: auto" width="300" src="a-color-sin-fondo_1.webp">
 </div>
 
 ## Nuestras redes sociales
